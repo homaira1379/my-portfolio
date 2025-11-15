@@ -1,45 +1,79 @@
-# My Portfolio – Homaira Yousufi
+🌟 Homaira Yousufi — Portfolio Website
 
-A personal developer portfolio built with **React** and **Vite**.  
-It showcases my projects, skills, certificates, and includes a working contact form connected to **Formspree**.
+Welcome to my personal developer portfolio!
+This website highlights my journey, skills, and projects as a frontend developer.
 
-## 🔗 Live Demo
+🚀 Live Demo
 
-(Once deployed to Vercel, put your link here)
+🔗 Portfolio Website:
+👉 https://my-portfolio-sepia-six-10.vercel.app/
 
-> Example: https://my-portfolio-homaira.vercel.app
+📁 GitHub Repository
 
----
+🔗 Repository:
+👉 https://github.com/homaira1379/my-portfolio
 
-## ✨ Features
+🖥️ About the Project
 
-- Responsive single-page layout with **React Router**
-- Light / Dark / Ocean theme toggle
-- Project listing page with:
-  - Search bar
-  - Filter by tech stack
-  - Detailed project pages
-- Certificates gallery
-- “About Me” section with my journey and hobbies
-- Contact form powered by **Formspree**
-- Deployed easily with **Vercel**
+This portfolio is a modern and responsive web application created to showcase:
 
----
+My developer journey
 
-## 🛠 Tech Stack
+My completed and ongoing projects
 
-- **Frontend:** React, Vite
-- **Routing:** react-router-dom
-- **Icons:** lucide-react
-- **Styling:** Plain CSS via inline styles & utility classes
-- **Forms:** Formspree
+My skills and technologies
 
----
+Ways to contact and connect with me
 
-## 🚀 Getting Started (Local Development)
+It is built with:
 
-### 1. Clone the repository
+React.js
 
-```bash
-git clone https://github.com/homaira1379/my-portfolio.git
+Vite
+
+CSS / Tailwind styles
+
+Formspree for a working contact form
+
+Vercel for fast deployment
+
+✨ Features
+
+Fully responsive layout
+
+Simple and modern UI
+
+Smooth navigation
+
+Project cards with progress bars and tags
+
+Functional contact form (messages go to my email via Formspree)
+
+Clean code and structure
+
+Deployed with Vercel
+
+📂 Sections
+
+🏠 Home — Welcome banner with introduction
+
+👩‍💻 About — My journey, passion, and career info
+
+📁 Projects — All featured projects with progress
+
+✉️ Contact — A working message form connected to Formspree
+
+🛠️ Installation (If You Want to Run Locally)
+git clone https://github.com/homaira1379/my-portfolio
 cd my-portfolio
+npm install
+npm run dev
+
+📬 Contact
+
+You can reach me through the contact form on the website.
+Messages will be delivered directly to my Formspree-connected email.
+
+📜 License
+
+This project is open-source and free to use.
